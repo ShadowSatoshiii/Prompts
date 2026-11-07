@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="215" viewBox="0 0 1200 215"><g transform="translate(200 100)">
+ <rect x="-62" y="-62" width="124" height="124" rx="18" fill="none" stroke="#30363d" stroke-dasharray="4 6"/>
+ <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.053;0.087;0.107;0.920;1" dur="7.5s" repeatCount="indefinite"/>
+ <g><animateTransform attributeName="transform" type="scale" values="1.6;1.6;.94;1;1;1" keyTimes="0;0.053;0.087;0.107;0.920;1" dur="7.5s" repeatCount="indefinite"/>
+ <g transform="rotate(-6)">
+ <rect x="-58" y="-58" width="116" height="116" rx="16" fill="#e5383b" fill-opacity=".12" stroke="#e5383b" stroke-width="3"/>
+ <rect x="-50" y="-50" width="100" height="100" rx="10" fill="none" stroke="#e5383b" stroke-width="1.2"/>
+ <text y="24" text-anchor="middle" font-family="'Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif" font-weight="900" font-size="66" fill="#e5383b">自</text></g></g></g>
+ <text y="98" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#f0f6fc">Own code only</text></g><g transform="translate(600 100)">
+ <rect x="-62" y="-62" width="124" height="124" rx="18" fill="none" stroke="#30363d" stroke-dasharray="4 6"/>
+ <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.133;0.167;0.187;0.920;1" dur="7.5s" repeatCount="indefinite"/>
+ <g><animateTransform attributeName="transform" type="scale" values="1.6;1.6;.94;1;1;1" keyTimes="0;0.133;0.167;0.187;0.920;1" dur="7.5s" repeatCount="indefinite"/>
+ <g transform="rotate(4)">
+ <rect x="-58" y="-58" width="116" height="116" rx="16" fill="#e5383b" fill-opacity=".12" stroke="#e5383b" stroke-width="3"/>
+ <rect x="-50" y="-50" width="100" height="100" rx="10" fill="none" stroke="#e5383b" stroke-width="1.2"/>
+ <text y="24" text-anchor="middle" font-family="'Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif" font-weight="900" font-size="66" fill="#e5383b">鍵</text></g></g></g>
+ <text y="98" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#f0f6fc">No real accounts</text></g><g transform="translate(1000 100)">
+ <rect x="-62" y="-62" width="124" height="124" rx="18" fill="none" stroke="#30363d" stroke-dasharray="4 6"/>
+ <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.213;0.247;0.267;0.920;1" dur="7.5s" repeatCount="indefinite"/>
+ <g><animateTransform attributeName="transform" type="scale" values="1.6;1.6;.94;1;1;1" keyTimes="0;0.213;0.247;0.267;0.920;1" dur="7.5s" repeatCount="indefinite"/>
+ <g transform="rotate(-3)">
+ <rect x="-58" y="-58" width="116" height="116" rx="16" fill="#e5383b" fill-opacity=".12" stroke="#e5383b" stroke-width="3"/>
+ <rect x="-50" y="-50" width="100" height="100" rx="10" fill="none" stroke="#e5383b" stroke-width="1.2"/>
+ <text y="24" text-anchor="middle" font-family="'Noto Serif JP','Hiragino Mincho ProN','Yu Mincho',serif" font-weight="900" font-size="66" fill="#e5383b">私</text></g></g></g>
+ <text y="98" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#f0f6fc">Private use only</text></g></svg>
